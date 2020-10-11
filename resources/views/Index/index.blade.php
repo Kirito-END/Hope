@@ -335,7 +335,7 @@
                         </div>
                         <!-- single brand -->
                         <div class="single-brand mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s">
-                            <img src="assets/images/avaya-logo-red.svg" alt="brand">
+                            <img src="assets/images/simwood.jpg" alt="brand">
                         </div>
                         <!-- single brand -->
                         <div class="single-brand mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
@@ -343,7 +343,7 @@
                         </div>
                         <!-- single brand -->
                         <div class="single-brand mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-                            <img src="assets/images/avaya-logo-red.svg" alt="brand">
+                            <img src="assets/images/simwood.jpg" alt="brand">
                         </div>
                         <!-- single brand -->
                         <div class="single-brand mt-50 text-md-right wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
@@ -480,7 +480,7 @@
                     <div class="col-lg-3 col-sm-6 order-sm-1 order-lg-1">
                         <div class="footer-about pt-40">
                             <a href="#">
-                            <img src="assets/images/hope-1.png" width="25%" alt="Logo">
+                            <img src="assets/images/logotipo.jpg" width="40%" alt="Logo">
                             </a>
                             <p class="text">Nos especializamos en casos de Covid-19, y hacemos que los doctores y personas se sientan Seguros.</p>
                             <p class="text">Nosotros contamos con un excelente</span> equipo para el cuidado de los doctores y personas.</p>
